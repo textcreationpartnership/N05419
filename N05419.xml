@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:006861_0000_102A7E74296C2810"/>
-            <pb facs="tcp:006861_0001_102A7E77129C1D48" rendition="simple:additions"/>
+            <pb facs="unknown:006861_0000_102A7E74296C2810"/>
+            <pb facs="unknown:006861_0001_102A7E77129C1D48"
+                rendition="simple:additions"/>
             <p>A <hi>JOURNAL</hi> OF THE PROCEEDINGS OF <hi>Jacob Wendell, Samuel Watts, Thomas Hubbard</hi> and <hi>Chambers Ruſſel,</hi> Eſq<hi rend="sup">rs;</hi> COMMISSIONERS appointed by the HONOURABLE <hi>SPENCER PHIPS,</hi> 
                <abbr>Eſq</abbr> Lieutenant-Governour and Commander in Chief, in and over His Majeſty's Province of the <hi>Maſſachuſetts-Bay</hi> in <hi>New-England,</hi> to Treat with the ſeveral Tribes OF <hi>Eaſtern Indians,</hi> in order to Renew and Confirm a general PEACE.</p>
             <p>
@@ -124,14 +125,14 @@
       </front>
       <body>
          <div type="journal">
-            <pb n="3" facs="tcp:006861_0002_102A7E78A1649580"/>
+            <pb n="3" facs="unknown:006861_0002_102A7E78A1649580"/>
             <head>A JOURNAL OF The Proceedings of <hi>Jacob Wendell, Samuel Watts, Thomas Hubbard,</hi> and <hi>Chambers Ruſſell,</hi> Eſq<hi rend="sup">rs;</hi> Commiſſioners ap<g ref="char:EOLhyphen"/>pointed by the Honourable SPENCER PHIPS, <abbr>Eſq</abbr> Lieutenant-Governour and Commander in Chief, in and over His Ma<g ref="char:EOLhyphen"/>jeſty's Province of the <hi>Maſſachuſetts-Bay</hi> in <hi>New-England,</hi> to Treat with the ſeveral Tribes of <hi>Eaſtern-Indians,</hi> in order to Renew and Confirm a general PEACE.</head>
             <div type="day">
                <head>Friday, October 13th 1752.</head>
                <p>THIS Day the Commiſſioners being arrived at St. <hi>George</hi>'s, were inform'd by <hi>Jabez Bradbury,</hi> 
                   <abbr>Eſq</abbr> Commander of the Fort, That there were only Two Indians of the <hi>Penobſcott</hi> Tribe now in the Fort; but that he underſtood there was a Number of the <hi>Norridgawock</hi> Indians at <hi>Richmond</hi> who had been waiting ſometime for the Arrival of the Commiſſioners; whereupon the Commiſſioners immediately diſpatch'd an Expreſs to Capt. <hi>Lithgow</hi> at <hi>Richmond</hi> Fort, directing him forthwith to come with as many of the Chief<g ref="char:EOLhyphen"/>of the <hi>Norridgawock</hi> and other Tribes of Indians as were there; and another Expreſs to the <hi>Penobſcotts,</hi> by one of that Tribe, informing them of their Arrival here, and that they were now waiting for them in order to proceed on the Treaty.</p>
                <p>
-                  <pb n="4" facs="tcp:006861_0003_102A7E7A912C60A8"/>
+                  <pb n="4" facs="unknown:006861_0003_102A7E7A912C60A8"/>
 In the Evening the Commiſſioners were inform'd that Capt. <hi>Lithgow</hi> was at <hi>Pleaſant-Point</hi> with a Number of the <hi>Norridgawock</hi> Indians, and would be at the Fort in the Morning. The Commiſſioners then ſent a Meſſenger to recall the Ex<g ref="char:EOLhyphen"/>preſs diſpatch'd to Capt. <hi>Lithgow</hi> in the Forenoon.</p>
             </div>
             <div type="day">
@@ -156,7 +157,7 @@ In the Evening the Commiſſioners were inform'd that Capt. <hi>Lithgow</hi> was
                   </p>
                   <q rend="inline normQuotes">
                      <p>IN Conſequence of a Commiſſion from his Honour Governour <hi>PHIPS</hi> to us (and Col. <hi>Heath</hi> ſince deceas'd,) we embark'd for St. <hi>George's</hi> the laſt Year; and came hither with full Power to ratify and confirm the Treaty of Peace made at <hi>Falmouth</hi> in 1749, (founded on Governour DUMMER'S in 1726,) But as that Treaty was broke in upon in ſeveral Inſtances, by ſome of the Tribes ot Indians included therein, particularly, (as is ſuppos'd) by the <hi>Norridgawock</hi>'s 
-<pb n="5" facs="tcp:006861_0004_102A7E7DB55F77A8"/>
+<pb n="5" facs="unknown:006861_0004_102A7E7DB55F77A8"/>
 killing and captivating ſeveral of the Inhabitants of this Province, as alſo by com<g ref="char:EOLhyphen"/>mitting other Acts of Hoſtility; an<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap> that Tribe not being here, it was then agreed by us and the <hi>Penobſcotts</hi> to deter the Conference till they could prevail on the <hi>Norridgawocks</hi> to come in, which they engag'd to uſe their Endeavours to do, and give Notice thereof to Capt. <hi>Bradbury</hi> accordingly.</p>
@@ -192,7 +193,7 @@ killing and captivating ſeveral of the Inhabitants of this Province, as alſo b
                   <p>We on the Part of the <hi>Penehſcotts</hi> are fully impower'd to treat with you; our Brethren the Indians knowing of our coming, ever ſince the laſt Summer.</p>
                </sp>
                <sp>
-                  <pb n="6" facs="tcp:006861_0005_102A7E801B4D0F38"/>
+                  <pb n="6" facs="unknown:006861_0005_102A7E801B4D0F38"/>
                   <speaker>Commiſſi.</speaker>
                   <p>Are you impowered to appear in behalf of the <hi>Norridgawock</hi> and St. <hi>John</hi>'s Tribe?</p>
                </sp>
@@ -266,7 +267,7 @@ killing and captivating ſeveral of the Inhabitants of this Province, as alſo b
                <p>Then King <hi>GEORGE</hi>'s Health was drank by the Commiſſioners and the Indians.</p>
             </div>
             <div type="day">
-               <pb n="7" facs="tcp:006861_0006_102A7E825B4191D0"/>
+               <pb n="7" facs="unknown:006861_0006_102A7E825B4191D0"/>
                <head>Thurſday, October 19.</head>
                <sp>
                   <speaker>Commiſſi.</speaker>
@@ -308,7 +309,7 @@ killing and captivating ſeveral of the Inhabitants of this Province, as alſo b
                   <q rend="inline normQuotes">
                      <p>IT is but ſeldom we can ſee the Faces of each other in Conferences, which we are ſorry for, and ſhould be glad it was oftner. Therefore, Let me ſpeak to you as to the Trade.</p>
                      <p>
-                        <pb n="8" facs="tcp:006861_0007_102A7E83EB764FF0"/>
+                        <pb n="8" facs="unknown:006861_0007_102A7E83EB764FF0"/>
 Altho' our Beaver fetches a great Sum, it will purchaſe but a ſmall Matter of your Goods. The Cuſtom is, Where Perſons ſell the Cheapeſt, there we go to Trade; particularly to <hi>Albany,</hi> tho' it is at a great Diſtance, yet many go there to Trade, becauſe they ſell good Pennyworths, and give a good Price for Beaver.</p>
                      <p>Brethren,</p>
                      <p>Lay theſe Things up in-your Hearts, and carry them Home with you.</p>
@@ -375,7 +376,7 @@ Altho' our Beaver fetches a great Sum, it will purchaſe but a ſmall Matter of 
                   <p>Notwithſtanding, we ſhall read it, that if any Infringement has been made by either Party, Notice may be now taken of it.</p>
                </sp>
                <p>
-                  <pb n="9" facs="tcp:006861_0008_102A7E870978D9B8"/>
+                  <pb n="9" facs="unknown:006861_0008_102A7E870978D9B8"/>
 The Commiſſioners then read the Treaty made at <hi>Falmouth</hi> in the Year 1749 Article by Article
 <note n="*" place="bottom">The ſaid Treaty is herewith re-printed in Pag. 14, 15</note>; and upon the firſt Article obſerved to the Indians, that they were bound to deliver the Captives that had been taken by them at their own Coſt and Charge; that they expected it of them; and that they ſhould do it with all poſſible ſpeed.</p>
                <sp>
@@ -447,7 +448,7 @@ The Commiſſioners then read the Treaty made at <hi>Falmouth</hi> in the Year 1
                   <p>We will inform the Government of this your Complaint; and if <hi>Hall</hi> has no Right to be there, you may depend upon his being removed.</p>
                </sp>
                <sp>
-                  <pb n="10" facs="tcp:006861_0009_102A7E8BB8C14048"/>
+                  <pb n="10" facs="unknown:006861_0009_102A7E8BB8C14048"/>
                   <speaker>Louis.</speaker>
                   <p>I ſpeak at the Deſire of the <hi>Norridgawocks,</hi> and for them: Above <hi>Richmond</hi> there are ſome Things doing, which we believe you know nothing of.</p>
                </sp>
@@ -502,7 +503,7 @@ The Commiſſioners then read the Treaty made at <hi>Falmouth</hi> in the Year 1
                      <p>Friends and Brethren,</p>
                      <q rend="inline normQuotes">
                         <p>IN the Morning you mentioned to us the Article of Trade; which you deſire may be agreeable to Covernour DUMMER's Treaty, inaſmuch as the Beaver you bring in, (tho' it ſells for a great Sum yet) fetches but little of our Goods. To which we reply, That if it be more agreable to you, to ſix your Furrs at the Prices they were at in Governour DUMMER's Time; we are ready to agree that you ſhall have our Goods at that Price alſo: But would endeavour to convince you, that as the Trade is now carried on, it is more to your Advantage; that is, you get more 
-<pb n="11" facs="tcp:006861_0010_102A7E8D4A40B5C8"/>
+<pb n="11" facs="unknown:006861_0010_102A7E8D4A40B5C8"/>
 Profit now, than you did in Governour DUMMER's Day: And here we will give you one Inſtance; Then you gave us Five Pounds of Spring Beaver for Eight Gal<g ref="char:EOLhyphen"/>lons of Rum; but now you give us but Four Pounds for that Quantity; and ſo it is as to moſt of the other Articles, both of Furrs and Goods. We are perſwaded you muſt be miſtaken as to your Furrs ſelling better at <hi>Albany</hi> than here, inaſmuch as the Merchants who purchaſe your Beaver there, ſend it to <hi>Boſton</hi> for a Market; which they would never do, if they did not buy it at ſuch a Rate as to give them ſome Profit.</p>
                         <p>However, You may depend on Juſtice being done you, both as to the Prices of our Goods, as well as of your Furs.</p>
                      </q>
@@ -561,7 +562,7 @@ Profit now, than you did in Governour DUMMER's Day: And here we will give you on
                      <p>Capt. <hi>Lithgow</hi> of <hi>Richmond</hi> is a good-natur'd and faithfull Men in his Poſts: He takes a tender Care of our young Men when they are drunk, and rude to him: We deſire he may be continued.</p>
                   </sp>
                   <sp>
-                     <pb n="12" facs="tcp:006861_0011_102A7E8ED941F528"/>
+                     <pb n="12" facs="unknown:006861_0011_102A7E8ED941F528"/>
                      <speaker>Commiſſ.</speaker>
                      <p>The Character you give him pleaſes us much; and we will inform the Government of it; and will uſe our Endeavours, that your Deſires may be complied with. Have you any Thing further to ſay to us?</p>
                   </sp>
@@ -639,7 +640,7 @@ Profit now, than you did in Governour DUMMER's Day: And here we will give you on
                   <p>When our Hatchers are out of order or want mending; our young Men throw them away, becauſe there is no Perſon here to mend them. We deſire that a Smith might be ſent us here for that Purpoſe.</p>
                </sp>
                <sp>
-                  <pb n="13" facs="tcp:006861_0012_102A7E91D44E41E8"/>
+                  <pb n="13" facs="unknown:006861_0012_102A7E91D44E41E8"/>
                   <speaker>Commiſſ.</speaker>
                   <p>At our Return Home, the Government ſhall be inform'd of what you ſay, relating to this Matter.</p>
                </sp>
@@ -666,7 +667,7 @@ Profit now, than you did in Governour DUMMER's Day: And here we will give you on
                   <speaker>Louis.</speaker>
                   <p>We of the <hi>Penobſcotts</hi> are very thankful for the Preſent now made us, and to thoſe of our Brethren that are abſent.</p>
                   <p>
-                     <pb n="14" facs="tcp:006861_0013_102A7E94D0E5AB18"/>
+                     <pb n="14" facs="unknown:006861_0013_102A7E94D0E5AB18"/>
 We heartily rejoice in the Peace now concluded upon; and hope it will laſt as long as the Sun and Moon endure.</p>
                </sp>
                <sp>
@@ -698,7 +699,7 @@ THE aforegoing Conference was taken as it paſs'd by and between the Commiſſio
             </p>
             <p>WE the Underwitten, being delegated and impowered to repreſent and act for and in behalf of the <hi>Indians</hi> aforeſaid, have concluded to make, and do by theſe Preſents in their Name make, our Submiſſion unto His moſt Excellent Majeſty <hi>GEORGE,</hi> the Second, by the Grace of GOD, of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> KING, Defender of the Faith, <hi>&amp;c.</hi> in as full and ample a Manner as any of our Predeceſſors have heretofore done.</p>
             <p>And, We do by theſe Preſents engage with <hi>Thomas Hutchinſon, John Choate, Iſrael Williams</hi> and <hi>James Otis,</hi> Eſqrs; commiſſioned by the Honourable <hi>SPENCER
-<pb n="15" facs="tcp:006861_0014_102A7E978A48C830"/>
+<pb n="15" facs="unknown:006861_0014_102A7E978A48C830"/>
 PHIPS,</hi> 
                <abbr>Eſq</abbr> as He is Lieutenant-Governour and Commander in Chief of the Pro<g ref="char:EOLhyphen"/>vince of the <hi>Maſſachuſetts-Bay,</hi> and with the Governors or Commanders in Chief of ſaid Province for the Time being,</p>
             <p>
@@ -718,7 +719,7 @@ PHIPS,</hi>
             </closer>
          </div>
          <div type="ratification">
-            <pb n="16" facs="tcp:006861_0015_102A7E9980600DD8"/>
+            <pb n="16" facs="unknown:006861_0015_102A7E9980600DD8"/>
             <head>
                <hi>The</hi> Ratification <hi>of the aforegoing</hi> TREATY,</head>
             <p>WE whoſe Names are under-written, being fully authorized and impowered by our reſpective Tribes, having had the within Articles of Peace diſtinctly and deliberately read over and interpreted to us; DO by theſe Preſents, in a publick and ſolemn Manner, as well for ourſelves as for the reſt of our Tribes, Ratify, Affirm and Confirm, all and fingular the within Articles of Peace to His Moſt Sacred Majeſty King <hi>GEORGE</hi> the Second; and that the ſame, and each of them, be, and ſhall continue and remain to be, in full Force, Efficacy, and Power, to all Intents and Purpoſes whatſoever.</p>
